@@ -15,5 +15,9 @@ A: yes.
 Q: How do i get into the discord
 A: discord.gg/pizzaclient
 
-Q: How do i get into the official discord
+Q: How do i get into the private discord
 A: You don't.
+
+Q: Why is my game crashing?
+A: close minecraft, go to .minecraft/config/pizzaclient/config.toml, open it in notepad, search for macro_keybind,set it to any number between 0 and 8,
+   save it and try again. If that doesn't work, delete the config.toml file. That will reset all your config but it fixes 100% of the time.
