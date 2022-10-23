@@ -1,1 +1,1 @@
-discord.gg/qol to get all changelogs.
+discord.gg/qol to see all changelogs.
