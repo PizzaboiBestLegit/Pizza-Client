@@ -1,1 +1,1 @@
-discord.gg/qol to see all changelogs.
+https://pizzaclient.net/discord for the release + changelogs + other services
